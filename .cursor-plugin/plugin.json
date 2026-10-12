@@ -1,0 +1,43 @@
+{
+  "name": "heyanon-mcp",
+  "displayName": "HeyAnon MCP",
+  "version": "1.0.0",
+  "description": "Wallets, portfolios, DeFi and CEX actions through Anon, the HeyAnon on-chain agent; Gemma crypto research; token transfers and scheduled automations. Includes an Agent Skill that teaches wallet selection, self-contained Anon requests, background-task polling and confirmation rules. All account tools need a HeyAnon API key from https://heyanon.ai/.",
+  "author": {
+    "name": "HeyAnon (RealWagmi)",
+    "email": "info@heyanon.ai",
+    "url": "https://heyanon.ai"
+  },
+  "homepage": "https://heyanon.ai",
+  "repository": "https://github.com/RealWagmi/heyanon-ai-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "heyanon",
+    "anon",
+    "defi",
+    "crypto",
+    "blockchain",
+    "wallet",
+    "portfolio",
+    "swap",
+    "transfer",
+    "mcp",
+    "web3",
+    "agent-skills"
+  ],
+  "mcpServers": "./mcp.json",
+  "variables": {
+    "type": "object",
+    "properties": {
+      "HEYANON_API_KEY": {
+        "type": "string",
+        "title": "HeyAnon API key",
+        "description": "Create it at https://heyanon.ai/ (account settings, API keys). It is sent only as the X-API-Key header of the MCP connection and never through the chat."
+      }
+    },
+    "required": [
+      "HEYANON_API_KEY"
+    ]
+  }
+}

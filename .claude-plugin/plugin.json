@@ -1,0 +1,8 @@
+{
+  "name": "heyanon-mcp",
+  "description": "Wallets, portfolios, DeFi and CEX actions through the HeyAnon on-chain agent, Gemma crypto research, token transfers and automations, plus an Agent Skill. Set HEYANON_API_KEY in the environment; it is sent as the X-API-Key header.",
+  "author": {
+    "name": "HeyAnon (RealWagmi)"
+  },
+  "mcpServers": "./mcp.json"
+}

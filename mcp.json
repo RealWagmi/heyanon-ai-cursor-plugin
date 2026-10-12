@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "heyanon": {
+      "type": "http",
+      "url": "https://api.heyanon.ai/mcp",
+      "headers": {
+        "X-API-Key": "${HEYANON_API_KEY}"
+      }
+    }
+  }
+}
