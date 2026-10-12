@@ -97,9 +97,13 @@ and Anon handles one request at a time.
 - [HeyAnon privacy policy](https://heyanon.ai/privacy-policy)
 - Security reports: see [SECURITY.md](SECURITY.md)
 
-## Support
+## Support and community
 
-Questions and feedback: [info@heyanon.ai](mailto:info@heyanon.ai) or https://heyanon.ai/.
+- Questions and feedback: [info@heyanon.ai](mailto:info@heyanon.ai)
+- Documentation: https://docs.heyanon.ai/heyanon.ai
+- X: https://x.com/heyanonai
+- Telegram: https://t.me/realwagmi
+- Discord: https://discord.com/invite/realwagmi
 
 ## License
 
