@@ -2,7 +2,7 @@
   "name": "heyanon-mcp",
   "displayName": "HeyAnon MCP",
   "version": "1.0.0",
-  "description": "Wallets, portfolios, DeFi and CEX actions through Anon, the HeyAnon on-chain agent; Gemma crypto research; token transfers and scheduled automations. Includes an Agent Skill that teaches wallet selection, self-contained Anon requests, background-task polling and confirmation rules. All account tools need a HeyAnon API key from https://heyanon.ai/.",
+  "description": "Check balances, swap, bridge, lend, stake, trade on CEX and schedule automations across EVM networks, Solana and TON by asking Anon, the HeyAnon on-chain agent, in plain language; send tokens to saved contacts, read portfolios and DeFi positions, and research protocols, markets and news with Gemma. Ships an Agent Skill that teaches wallet selection, self-contained requests, background-task polling and confirmation before anything that moves funds. Works in Grok Bot and Cursor; needs a HeyAnon API key from heyanon.ai, entered once as a plugin value and sent only as the X-API-Key header.",
   "author": {
     "name": "HeyAnon (RealWagmi)",
     "email": "info@heyanon.ai",
