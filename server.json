@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.realwagmi/heyanon",
+  "name": "io.github.RealWagmi/heyanon",
   "title": "HeyAnon MCP",
   "description": "HeyAnon on-chain agent: wallets, portfolios, DeFi and CEX actions, transfers, Gemma research.",
   "version": "1.0.0",
